@@ -18,6 +18,6 @@ The Line Chart furthur shows that urban areas make up the majority of totgals Fa
 ![Total_Fare_By_City_Type](https://user-images.githubusercontent.com/106940550/180138201-079cb9cc-40b0-430e-88a6-55d21bf565ca.png)
 
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary:
 
 Based on our finding I would reccomend decreasing the total number of urban areas drivers by incentivizing them to work in Suburban or Rural areas. This should lower the amount of idle Urban drivers, and increase the Average Fare in Urban Areas. Rural and Suburban areas have more rides than drivers, so an increase in drivers could help with wait times in those areas as well. 
